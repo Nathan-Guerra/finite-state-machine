@@ -1,0 +1,19 @@
+{
+    "name": "nathan-guerra/finite-state-machine",
+    "description": "This repository contains an abstraction of a simple finite state machine for studying purpouses.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nathan",
+            "email": "nguerra123.ng@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NathanGuerra\\FiniteStateMachine\\": "src/"
+        }
+    },
+    "require": {
+        "php": "8.1.*"
+    }
+}
